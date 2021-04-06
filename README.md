@@ -6,6 +6,7 @@ The project is created using the following languages
 * HTML5
 * CSS3
 * BOOTSTRAP 4.5
+* FONTAWSOME Icons
 
 ### Target
 Following is the target Image required to create\
